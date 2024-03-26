@@ -1,0 +1,92 @@
+body{
+    background-color: #dff9e7;
+    margin : 0px;
+    font-family: "Montserrat";
+    padding: 0px;
+    }
+    
+    #nav1 {
+        margin: 5%;
+        padding: 1%;
+        list-style-type: none;
+        box-sizing: border-box;
+        font-size: 40 px;
+        background-color:#92fa96 ;
+        nav-up: auto;
+        border-radius: 15px;
+        font-family: "Montserrat";
+    }
+    #nav1 li{
+    margin-left: 0px;
+    display: inline ;
+    text-align: center;
+    margin: 0;
+    font-family: "Montserrat";
+    }
+    #logo{
+        color: #044206;
+    background-color: #92fa96;
+    margin-top: 0px;
+        font-size: 25px;
+        padding: 20px;
+        font-family: "Montserrat";
+        border-radius: 8px;
+        font-weight: 800;
+        
+    }
+    #nav1 a{
+        font-family: "Montserrat";
+        color: #171717;
+        background-color: #92fa96;
+        list-style-type: none;
+        text-decoration: none;
+        font-size: 90%;
+        padding: 2%;
+        font-weight: 600;
+        
+
+     }
+    #nav1 a:hover{
+        background-color: #044206;
+        color: #92fa96;
+        border-radius: 8px;
+    }
+    #div1{
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-top: 0%;
+        background-color: #044206;
+        border-radius: 15px;
+    }
+    #div1 h2{
+        color: #92fa96;
+        margin-left: 17%;
+        margin-right: 17%;
+        padding: 3%;
+    
+    }
+    #div1 p{
+        color: aliceblue;
+        margin: 5%;
+        font-size: 120%;
+    }
+    #try-tl {
+        background-color: #92fa96;
+        border-radius: 20px;
+        padding: 15px;
+        font-family: "Montserrat";
+        font-size: 120%;
+        margin-left: 15%;
+        font-weight: 800;
+    }
+    #see-cr {
+        background-color: #92fa96;
+        border-radius: 20px;
+        padding: 5px;
+        font-family: "Montserrat";
+        font-size: 120%;
+        margin-left: 15%;
+        font-weight: 800;
+        margin-bottom: 20px;
+        padding: 15px;
+    }
