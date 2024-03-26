@@ -51,21 +51,27 @@ body{
         color: #92fa96;
         border-radius: 8px;
     }
-    #div1{
+    .main {
         margin-left: 15%;
         margin-right: 15%;
         margin-top: 0%;
         background-color: #044206;
         border-radius: 15px;
     }
-    #div1 h2{
+    .main h2{
         color: #92fa96;
         margin-left: 17%;
         margin-right: 17%;
         padding: 3%;
     
     }
-    #div1 p{
+    .main h1{
+        color :aliceblue;
+        padding: 10px;
+        text-align: center;
+        
+    }
+    .main p{
         color: aliceblue;
         margin: 5%;
         font-size: 120%;
@@ -89,4 +95,12 @@ body{
         font-weight: 800;
         margin-bottom: 20px;
         padding: 15px;
+    }
+    .main img {
+        width: 96%;
+        border-radius: 15px;
+        margin: 2%;
+    }
+    .main img :hover{
+        width: 98%;
     }
